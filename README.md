@@ -1,14 +1,3 @@
-
-
-## README.md
-Github项目README.md模板
-README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项目。
-为了做到这点，写README的时候应该注意层次和格式，用Markdown书写为佳。
-一般至少包含三大部分，第一是介绍项目背景和用处，第二是使用方法（包括导入/安装，暴露的调用接口等），第三遵守的协议。
-
-具体可以参照这份模板，模板本身已放到Github。
-
----
 # 154_Final_Project
 -------------
 
@@ -37,11 +26,20 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
     
     Categorical variables: workclass, race, maritual status, sex, occupation, native country.
     
-    Quantitative variables: age, years of education, hours worked each week,
+    Quantitative variables: age, years of education, hours worked each week.
     
+    - Binning Varibales
     
-- 
+    Binned variables: marital status, workclass, occupation, native country
+- Data Analysis and Prediction
 
+1. Classification Tree
+
+2. Bagged Tree
+
+3. Random Forest
+
+4. Model Selection
 
 ### R/
 ###### Final_Report.pdf
