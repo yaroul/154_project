@@ -13,25 +13,25 @@
 
 ###### Final_Project.pdf
 
-###The r files include all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
+The r files include all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
 
-- Import Data
+1. Import Data
 
-- General Variable Selection
+2. General Variable Selection
 
     Here we set some variables to null as they are either redudant with other variables or not very useful for classification.
-- Exploratory Data Analysis
+3. Exploratory Data Analysis
 
     Analyzing the data more closely. Using ggplot to graph the count of categorical variables' levels and proportion of them earning more than 50k per year. We also graphed quantitative variables in terms of count and proportion.
     
-    Categorical variables: workclass, race, maritual status, sex, occupation, native country.
+    - Categorical variables: workclass, race, maritual status, sex, occupation, native country.
     
-    Quantitative variables: age, years of education, hours worked each week.
+    - Quantitative variables: age, years of education, hours worked each week.
     
     - Binning Varibales
     
        Binned variables: marital status, workclass, occupation, native country
-- Data Analysis and Prediction
+ 4. Data Analysis and Prediction
 
     1. Classification Tree
 
