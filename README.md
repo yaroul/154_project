@@ -31,7 +31,16 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 - General Variable Selection
 
     Here we set some variables to null as they are either redudant with other variables or not very useful for classification.
+- Exploratory Data Analysis
 
+    Analyzing the data more closely. Using ggplot to graph the count of categorical variables' levels and proportion of them earning more than 50k per year. We also graphed quantitative variables in terms of count and proportion.
+    
+    Categorical variables: workclass, race, maritual status, sex, occupation, native country.
+    
+    Quantitative variables: age, years of education, hours worked each week,
+    
+    
+- 
 
 ### report/
 Final_Report.pdf
