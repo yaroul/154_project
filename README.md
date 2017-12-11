@@ -41,7 +41,7 @@ The r files include all the codes we wrote and all results we obtained. They are
 
     4. Model Selection
 
-### R/
+### Report/
 ###### Final_Report.pdf
 
 As mention above, the official report is organized similar to the r files for easy reference. However, the official report includes more written analysis.
