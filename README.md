@@ -20,9 +20,9 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 [adult.test](https://raw.githubusercontent.com/ucb-stat154/stat154-fall-2017/master/problems/project/data/adult.test)
 
 ### R/
-- Final_Project.Rmd
+###### Final_Project.Rmd
 
-- Final_Project.pdf
+###### Final_Project.pdf
 
 ###The r files include all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
 
@@ -43,7 +43,8 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 - 
 
 ### report/
-Final_Report.pdf
+
+######Final_Report.pdf
 
 ### 使用方法
 怎么使用，有哪些步骤哪些接口。
