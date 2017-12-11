@@ -30,16 +30,16 @@
     
     - Binning Varibales
     
-    Binned variables: marital status, workclass, occupation, native country
+       Binned variables: marital status, workclass, occupation, native country
 - Data Analysis and Prediction
 
-1. Classification Tree
+    1. Classification Tree
 
-2. Bagged Tree
+    2. Bagged Tree
 
-3. Random Forest
+    3. Random Forest
 
-4. Model Selection
+    4. Model Selection
 
 ### R/
 ###### Final_Report.pdf
