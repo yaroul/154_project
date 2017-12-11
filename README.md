@@ -1,9 +1,4 @@
 
-R/
-Final_Project.Rmd
-Final_Project.pdf
-report/
-Final_Report.pdf
 
 ## README.md
 Github项目README.md模板
@@ -24,21 +19,16 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 
 [adult.test](https://raw.githubusercontent.com/ucb-stat154/stat154-fall-2017/master/problems/project/data/adult.test)
 
-### 特性（可选）
-- 特性A
+### R/
+- Final_Project.Rmd
 
-- 特性B
+- Final_Project.pdf
 
-###原理说明（可选）
-阐述项目是基于什么思路设计的
+###The r files includes all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
 
 
-### 下载安装
-Gradle:  
-``` xml
-compile 'xxx'
-```
-(说明项目的配置方法，android开源库多用Gradle导入)
+### report/
+Final_Report.pdf
 
 ### 使用方法
 怎么使用，有哪些步骤哪些接口。
