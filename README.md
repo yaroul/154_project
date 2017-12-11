@@ -44,16 +44,14 @@ The r files include all the codes we wrote and all results we obtained. They are
 ### R/
 ###### Final_Report.pdf
 
-### 使用方法
-怎么使用，有哪些步骤哪些接口。
+As mention above, the official report is organized similar to the r files for easy reference. However, the official report includes more written analysis.
 
-### 注意事项
-比如混淆方法等
+1. Introduction
 
-### TODO（可选）
-接下来的开发/维护计划。
+2. Exploritoray Data Analysis
 
-## License
-遵守的协议
+3. Data Analysis and Prediction
+
+4. Conclusion
     
   
