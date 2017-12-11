@@ -24,7 +24,12 @@ README作为说明文件，作用是让浏览者快速、鸟瞰式地了解项�
 
 - Final_Project.pdf
 
-###The r files includes all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
+###The r files include all the codes we wrote and all results we obtained. They are organized in a similar way as the the final report. So you can always refer to the rmd file and the knited pdf for further details.
+
+-- Import Data
+
+-- General Variable Selection
+    Here we set some variables to null as they are either redudant with other variables or not very useful for classification.
 
 
 ### report/
